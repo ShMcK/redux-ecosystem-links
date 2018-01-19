@@ -1,5 +1,10 @@
 ### Utilities
 
+**Frameworks**
+
+- [Rematch](https://github.com/rematch/rematch)
+A wrapper around Redux providing a simplified API. 
+
 **Related Topics**
 
 - [Entity/Collection Management](entity-collection-management.md)
